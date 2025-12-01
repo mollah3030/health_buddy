@@ -1,5 +1,8 @@
 #💪 health_buddy💪”
 
+<img width="938" height="566" alt="image" src="https://github.com/user-attachments/assets/c5ee6813-09fd-4ea0-94dd-6c08306201db" />
+
+
 # HealthBuddy – Simple Health Assistant App
 
 HealthBuddy is a small Android app built with **Kotlin** and **Jetpack Compose**.  
